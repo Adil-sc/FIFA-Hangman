@@ -1,4 +1,4 @@
-# FIFA-Hangman
+# FIFA Hangman
 A FIFA themed Hangman game where you need to guess the name of players from various leagues and clubs around the world
 inlcuding the Premier League, La Liga, and Serie A.
 
