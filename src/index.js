@@ -1,7 +1,7 @@
 
 import Hangman,{renderPuzzle} from './hangman';
 import getPuzzle from './requests';
-
+ 
 
 let game1;
 
