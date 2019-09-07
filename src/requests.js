@@ -1,9 +1,9 @@
-const getPuzzle = async (wordCount) => {
+const getPuzzle = async () => {
 	const response = await fetch(`http://localhost:4000/api/players?nameonly=true`);
 	if(response.status === 200){
 		
 		const data = await response.json();
-		return data.puzzle;
+		return data.player;
 		
 	}else{
 		
