@@ -3,7 +3,7 @@ const getPuzzle = async () => {
 	if(response.status === 200){
 		
 		const data = await response.json();
-		return data.player;
+		return data.playerName;
 		
 	}else{
 		
