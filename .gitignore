@@ -13,7 +13,11 @@
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
+
+### Node Modules ###
 node_modules/
+public/
+
 
 ### Windows ###
 # Windows thumbnail cache files
