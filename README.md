@@ -8,7 +8,7 @@ npm install
 ```
 Run with the following command:
 ```unix
-npm run dev-server.js
+npm run dev-server
 ```
 
 ## Built With
